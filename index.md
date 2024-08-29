@@ -10,7 +10,7 @@ language: "en"
 latitude: "51.3440982"
 longitude: "-0.191824"
 humandate: "Mon 7 Oct"
-humantime: "9am-1pm"
+humantime: "2pm-5pm"
 startdate: 2024-10-07
 enddate: 2024-10-07
 instructor: ["Rachel Alcraft"]
